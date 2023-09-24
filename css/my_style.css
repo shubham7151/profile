@@ -91,6 +91,17 @@
   font-size: 20px;
 }
 
+
+.view{
+  color: #35f4dd;
+  font-family: "Source Code Pro", "monospace";
+  font-size: medium;
+  margin-left:   10px;
+  border: 2px whitesmoke solid;
+  padding: 2px;
+  border-radius: 30%;
+  text-decoration: none;
+}
 .top-left {
   text-align: left;
   margin-top: 2%;
@@ -348,12 +359,13 @@
 }
 
 
+
 .history-tl-container{
   font-family: "Roboto",sans-serif;
 width:50%;
 margin:auto;
 display:block;
-position:relative;
+position:relative;  
 }
 .history-tl-container ul.tl{
   margin:20px 0;
